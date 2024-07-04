@@ -4,7 +4,7 @@
 ------
 :heart: :point_right: 【地址1】：https://home.feiyue.life/
 ------
-:heart: :point_right: 【地址2】: https://18.feiyue.life/
+:heart: :point_right: 【地址2】:  https://18.feiyue.life/
 -----
 :heart: :point_right: 【地址3】：https://18.warbller.com/
 -----
