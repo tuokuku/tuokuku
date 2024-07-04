@@ -6,7 +6,7 @@
 ------
 :fire: :point_right: 【地址2】:  https://18.feiyue.life/
 -----
-:globe_with_meridian: :point_right: 【地址3】：https://18.warbller.com/
+:globe_with_meridians: :point_right: 【地址3】：https://18.warbller.com/
 -----
 :heart: :point_right: 【地址4】：https://18.warbller.com/
 ------
